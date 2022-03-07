@@ -9,4 +9,5 @@ Using the OpenGL, GLFW and GLM libraries, I was able to achieve the following:
 - Photorealism, by introducing the effect of the sandstorm into the scene, and also by animating different objects.
 
 ![firstpic](https://i.pinimg.com/564x/12/ae/55/12ae551490afe5976078947570e392d7.jpg)
+
 A video explaining the entire flow of the project is now available on Youtube (romanian language): 
